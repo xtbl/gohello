@@ -1,0 +1,2 @@
+# gohello
+GO lang intro
